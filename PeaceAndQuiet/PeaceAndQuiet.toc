@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: Peace and Quiet
+## Notes: Aggressive, local political chat filtering for Forever.
+## Author: Chris
+## Version: 1.9.3.1
+## SavedVariables: PeaceAndQuietDB
+
+Rules.lua
+Filter.lua
+History.lua
+Performance.lua
+Guilds.lua
+Options.lua
+GuildOptions.lua
+PeaceAndQuiet.lua
